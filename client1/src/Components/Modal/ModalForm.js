@@ -17,7 +17,7 @@ const ModalForm = () => {
         setInputs({ ...inputs, [e.target.name]: e.target.value });
 
     const sendData = (data) => {
-        fetch("http://localhost:3000/heros/postHero", {
+        fetch("http://localhost:3001/heros/postHero", {
             method: "POST",
             body: JSON.stringify(data),
             headers: new Headers({

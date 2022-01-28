@@ -1,16 +1,16 @@
-./client1/node_modules
-./client1/.pnp
-./client1/.pnp.js
-./client1/coverage
-./client1/build
-./client1/.DS_Store
-./client1/.env.local
-./client1/.env.development.local
-./client1/.env.test.local
-./client1/.env.production.local
-./client1/npm-debug.log*
-./client1/yarn-debug.log*
-./client1/yarn-error.log*
+/client1/node_modules
+/client1/.pnp
+/client1/.pnp.js
+/client1/coverage
+/client1/build
+/client1/.DS_Store
+/client1/.env.local
+/client1/.env.development.local
+/client1/.env.test.local
+/client1/.env.production.local
+/client1/npm-debug.log*
+/client1/yarn-debug.log*
+/client1/yarn-error.log*
 
 
 
